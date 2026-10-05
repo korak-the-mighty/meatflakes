@@ -16,7 +16,7 @@ Meatflakes are **shelf-stable real-meat flakes or toppings** added to everyday f
 - **Not powder:** meat must remain visually distinct, not merely contribute flavor.
 - **Not jerky:** the main use is as a meal ingredient or topping, not a chewable meat snack.
 - **Not conventional meat floss:** the desired appearance is discrete flakes or pieces, not a fine, fluffy mass of fibers. Existing floss is still important prior art and a comparison product.
-- **Not a claim of invention or exclusivity:** adjacent products and patents exist; see [research/competitors.md](research/competitors.md) and [research/patents.md](research/patents.md).
+- **Not a claim of invention or exclusivity:** adjacent products and patents exist; see [competitor notes](../03_RESEARCH/COMPETITORS.md) and [prior-art notes](../04_IP_PATENT/PRIOR_ART.md).
 
 ## Open design choices
 

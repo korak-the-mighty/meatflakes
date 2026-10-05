@@ -19,6 +19,8 @@
 5. **Safety and quality:** validated pathogen control, moisture behavior, package integrity, oxidation, sensory quality, and labeled shelf life. No ambient-storage claim before validation.
 6. **Communication:** directions must match tested use. A hot dish does not automatically make an unsafe product safe.
 
+**Storage target:** explore 12–24+ months unopened at ambient temperature with qualified experts. This is deliberately ambitious and is not a claim that any formulation can achieve it. The chosen SKU may need a shorter life or a different package.
+
 ## Carbonara test dish
 
 Prepare a consistent carbonara base and compare: freshly cooked guanciale; candidate guanciale flakes; a commercial real-bacon topping; and a no-meat control. Blindly assess meat recognition, flavor, texture, overall dish satisfaction, and whether the dish feels like a meal. Keep the recipe and topping mass fixed. Record whether the flakes stay distinct, soften, or become greasy.
@@ -27,4 +29,4 @@ This is a comparison protocol, not a claim that the candidate reproduces traditi
 
 ## Packaging questions
 
-Test single-serve versus resealable packs, moisture ingress after opening, oxygen exposure, breakage of flakes, and instructions for storage after opening. A pack that protects a lean prototype may be insufficient for a fatty variant. See [research/shelf-life.md](research/shelf-life.md).
+Test single-serve versus resealable packs, moisture ingress after opening, oxygen exposure, breakage of flakes, and instructions for storage after opening. A pack that protects a lean prototype may be insufficient for a fatty variant. See [shelf-life plan](../03_RESEARCH/SHELF_LIFE.md).

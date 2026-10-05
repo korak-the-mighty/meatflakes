@@ -6,7 +6,7 @@
 
 [Eurostat's Key figures on the European food chain, 2024 edition](https://ec.europa.eu/eurostat/documents/15216629/20555393/KS-01-24-000-EN-N.pdf) reports aggregate EU household spending categories. [Eurostat's household-budget data](https://ec.europa.eu/eurostat/databrowser/view/hbs_str_t224/default/table?category=livcon.hbs.hbs_struc&lang=en) provide expenditure structure by household type. These sources can frame country and household selection, but they do **not** identify a meat-flake category or its addressable spending.
 
-Manufacturer listings show adjacent offers: [Hormel real-bacon bits](https://www.hormel.com/Brands/Real-Bacon/Hormel-Bacon-Toppings/Hormel-Real-Bacon-Bits-6oz?pr_rd_page=8) and [Bee Cheng Hiang floss products](https://order.beechenghiang.com.sg/pub/CNY26%20BCH%20Corporate%20Price%20List.pdf). Listings establish product existence and positioning, not unit sales, penetration, or consumer preference.
+Manufacturer listings show adjacent offers: [Hormel real-bacon bits](https://www.hormel.com/brands/hormel-black-label-bacon/product/real-bacon-bits-pouch/) and [Bee Cheng Hiang floss products](https://order.beechenghiang.com.sg/pub/CNY26%20BCH%20Corporate%20Price%20List.pdf). Listings establish product existence and positioning, not unit sales, penetration, or consumer preference.
 
 ## Bottom-up model to build after testing
 

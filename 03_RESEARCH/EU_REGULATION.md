@@ -20,4 +20,4 @@ Check species naming, ingredient order, allergens from seasonings, nutrition dec
 
 ## Evidence to assemble
 
-Facility status; supplier specifications; HACCP documentation; process validation; microbial and shelf-life data; pack specification; traceability and recall procedure; final artwork; and review of each intended market. See [shelf-life.md](shelf-life.md) for the evidence plan.
+Facility status; supplier specifications; HACCP documentation; process validation; microbial and shelf-life data; pack specification; traceability and recall procedure; final artwork; and review of each intended market. See [shelf-life plan](SHELF_LIFE.md) for the evidence plan.

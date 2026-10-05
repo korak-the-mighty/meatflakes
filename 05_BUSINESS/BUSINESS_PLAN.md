@@ -20,7 +20,7 @@ Do not forecast sales from the size of the general meat or seasoning market. Rel
 
 ## Unit-economics worksheet
 
-For each candidate, record raw meat cost and yield after cooking/drying; seasoning and other ingredients; labor; energy; co-manufacturing; primary and secondary packaging; quality assurance and laboratory testing; spoilage and returns; freight; channel margin; and VAT. The resulting cost per *actual serving* must be compared with an acceptable consumer price and with fresh meat, bacon bits, and meat floss. No values have been established.
+For each candidate, record raw meat cost and yield after cooking/drying; seasoning and other ingredients; labor; energy; co-manufacturing; primary and secondary packaging; quality assurance and laboratory testing; spoilage and returns; freight; channel margin; and VAT. The resulting cost per *actual serving* must be compared with an acceptable consumer price and with fresh meat, bacon bits, and meat floss. No values have been established. Use the [unit-economics worksheet](UNIT_ECONOMICS.md) to collect real numbers.
 
 ## Main commercial risks
 
@@ -32,4 +32,4 @@ For each candidate, record raw meat cost and yield after cooking/drying; seasoni
 
 ## Evidence gates
 
-Advance only when a defined target customer repeatedly uses a safe prototype, prefers it in at least one real dish, accepts its intended price, and the fully loaded economics can support the chosen channel. See [VALIDATION.md](VALIDATION.md) and [research/market.md](research/market.md).
+Advance only when a defined target customer repeatedly uses a safe prototype, prefers it in at least one real dish, accepts its intended price, and the fully loaded economics can support the chosen channel. See [validation plan](../07_TESTING/VALIDATION_PLAN.md) and [market notes](../03_RESEARCH/MARKET.md).

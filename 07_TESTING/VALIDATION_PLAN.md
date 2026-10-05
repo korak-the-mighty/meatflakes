@@ -12,11 +12,11 @@ Use photos or professionally safe samples to compare visible flake shapes agains
 
 ## 3. In-dish performance
 
-Test at least one hot, moist, and cold application where the SKU is intended to be used. For the pork path, include [the carbonara comparison](PRODUCT.md#carbonara-test-dish). Record appearance, meat recognition, texture over time, flavor, dish satisfaction, and whether users want a second use. Avoid changing both recipe and topping at once.
+Test at least one hot, moist, and cold application where the SKU is intended to be used. For the pork path, include [the carbonara comparison](../02_PRODUCT_R%26D/PRODUCT.md#carbonara-test-dish). Record appearance, meat recognition, texture over time, flavor, dish satisfaction, and whether users want a second use. Avoid changing both recipe and topping at once.
 
 ## 4. Technical feasibility and safety
 
-With a qualified processor and food microbiologist, define a validated lethality step, drying or other stability controls, hygienic handling after that step, packaging, and shelf-life protocol. Test actual products and worst-case pieces and packages. Assess microbiology, water activity, moisture distribution, rancidity, sensory decline, package failure, and post-opening instructions. Apply the EU category and microbiological criteria that fit the final product. See [research/shelf-life.md](research/shelf-life.md) and [research/eu-regulation.md](research/eu-regulation.md).
+With a qualified processor and food microbiologist, define a validated lethality step, drying or other stability controls, hygienic handling after that step, packaging, and shelf-life protocol. Test actual products and worst-case pieces and packages. Assess microbiology, water activity, moisture distribution, rancidity, sensory decline, package failure, and post-opening instructions. Apply the EU category and microbiological criteria that fit the final product. See [shelf-life plan](../03_RESEARCH/SHELF_LIFE.md) and [EU regulatory questions](../03_RESEARCH/EU_REGULATION.md).
 
 ## 5. Willingness to pay and repeat use
 

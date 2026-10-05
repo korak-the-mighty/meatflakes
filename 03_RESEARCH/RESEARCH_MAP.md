@@ -4,7 +4,7 @@
 
 ## What is established outside this project
 
-- [Hormel describes real-bacon bits as shelf stable until opened](https://www.hormel.com/Brands/Real-Bacon/Hormel-Bacon-Toppings/Hormel-Real-Bacon-Bits-6oz?pr_rd_page=8). Thus the broad idea of shelf-stable real-meat topping already has commercial examples. This does not establish how Meatflakes would be made or stored.
+- [Hormel describes real-bacon bits as shelf stable until opened](https://www.hormel.com/brands/hormel-black-label-bacon/product/real-bacon-bits-pouch/). Thus the broad idea of shelf-stable real-meat topping already has commercial examples. This does not establish how Meatflakes would be made or stored.
 - [Bee Cheng Hiang lists pork floss and crispy pork floss](https://order.beechenghiang.com.sg/pub/CNY26%20BCH%20Corporate%20Price%20List.pdf), including use with congee and sandwiches. This is an adjacent product category, not the proposed flake format.
 - [USDA FSIS warns that drying meat alone may allow pathogens to survive](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/meat-fish/jerky). A low final water activity is only one part of a safe process.
 - [EU Regulation 852/2004 requires food business operators to implement hygiene procedures based on HACCP principles](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32004R0852). Animal-origin and ready-to-eat requirements need SKU-specific review.
@@ -18,14 +18,14 @@ No Meatflakes prototype has been documented here. There are no measurements of w
 
 | Topic | File | Decision it supports |
 | --- | --- | --- |
-| Competitive products | [competitors.md](research/competitors.md) | Differentiation and reference products |
-| Asian product traditions | [asia.md](research/asia.md) | Prior art and consumer learning |
-| Published patents | [patents.md](research/patents.md) | Search scope for specialist review |
-| Food science | [food-science.md](research/food-science.md) | Texture and process hypotheses |
-| Shelf life | [shelf-life.md](research/shelf-life.md) | Safety and quality test plan |
-| Manufacturing | [manufacturing.md](research/manufacturing.md) | Pilot partner brief |
-| EU regulation | [eu-regulation.md](research/eu-regulation.md) | Compliance workstream |
-| Market | [market.md](research/market.md) | Customer and unit-economics evidence |
+| Competitive products | [COMPETITORS.md](COMPETITORS.md) | Differentiation and reference products |
+| Asian product traditions | [ASIA.md](ASIA.md) | Prior art and consumer learning |
+| Published patents | [PRIOR_ART.md](../04_IP_PATENT/PRIOR_ART.md) | Search scope for specialist review |
+| Food science | [FOOD_SCIENCE.md](FOOD_SCIENCE.md) | Texture and process hypotheses |
+| Shelf life | [SHELF_LIFE.md](SHELF_LIFE.md) | Safety and quality test plan |
+| Manufacturing | [MANUFACTURING.md](MANUFACTURING.md) | Pilot partner brief |
+| EU regulation | [EU_REGULATION.md](EU_REGULATION.md) | Compliance workstream |
+| Market | [MARKET.md](MARKET.md) | Customer and unit-economics evidence |
 
 ## Source rules for future work
 

@@ -17,4 +17,4 @@ Search combinations and synonyms for: dehydrated/cooked/dried/freeze-dried meat;
 
 ## Questions for claim analysis
 
-Could any demonstrable technical feature be narrowly claimed: a piece geometry and structure that survives drying, a measured texture transition on food, a fat-stable guanciale composition, a validated process, or a package/product combination? These are investigation prompts, **not asserted inventions**. A patent attorney should compare exact claims and dates before any filing or freedom-to-operate decision. See [../IP_PATENT.md](../IP_PATENT.md).
+Could any demonstrable technical feature be narrowly claimed: a piece geometry and structure that survives drying, a measured texture transition on food, a fat-stable guanciale composition, a validated process, or a package/product combination? These are investigation prompts, **not asserted inventions**. A patent attorney should compare exact claims and dates before any filing or freedom-to-operate decision. See [IP strategy](IP_STRATEGY.md).
